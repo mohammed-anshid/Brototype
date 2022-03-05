@@ -1,0 +1,346 @@
+
+#logo{
+    text-decoration:none;
+}
+.logo1{
+    color: #111;
+    background: #fff;
+    border-radius: 3px;
+    font-family: 'Poppins', sans-serif;
+    text-decoration:none;
+    font-size: 24px;
+    font-weight: 650;
+    letter-spacing: 1px;
+}
+.logo2{
+    color: #fff;
+    font-family:'Poppins', sans-serif;
+    text-decoration:none;
+    font-size: 24px;
+    font-weight: 600;
+    letter-spacing: 2px;
+}
+#row{
+    width: 100%;
+}
+.nav-link{
+    font-size: 16px;
+    margin: 3px;
+    color: #fff!important;
+    font-weight: 500;
+}
+.navbar-nav{
+    
+    text-align: right;
+    margin-right: 15px;
+}
+.menu-bar .navbar-toggler {
+    padding-right: 20px;
+    border-color: #fff;
+    color: #fff;
+    
+}
+.nav-link:hover{
+    font-weight: 500;
+    border-bottom: 1px solid #fff ;
+}
+#home{
+    color: #111;
+    width: 100px;
+    height: 400px;
+}
+#nav-ba{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    margin-top: -20px;
+}
+
+
+/*-----------------------banner section----------------------*/
+
+#banner{
+    background-color: #111;
+    color: #fff;
+    padding-top: 5%;
+    height: 720px;
+}
+.ln1{
+    font-size: 56px;
+    font-weight: 700;
+    font-family:'Kanit', sans-serif;
+    margin-bottom: -24px;
+
+}
+.ln2{
+    font-size: 56px;
+    font-weight: 600;
+    font-family:'Kanit', sans-serif;
+    margin-bottom: -24px;
+}
+.ln3{
+    font-size: 56px;
+    font-weight: 700;
+    font-family:'Kanit', sans-serif;
+}
+#bttn{
+    color: rgb(10, 10, 10);
+    border-radius: 8px;
+    background: #fff;
+    font-family:'Kanit', sans-serif;
+    text-decoration: none;
+    width: 120px;
+    height: 42px;
+    font-weight: 700;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding: 12px;
+}
+.para{
+    font-family:'Kanit', sans-serif;
+    
+}
+#bttn:hover{
+    background:rgb(119, 68, 126);
+    color: #fff;
+    margin-left: 10px;
+    transition: 0.3s;
+}
+
+/*------------------------------ person---------------------*/
+
+#img{
+    width: 310px;
+    height: 310px;
+    margin-left: 32px;
+}
+.person{
+    font-family:'Poppins', sans-serif;
+    font-weight: 550;
+    padding-left: 82px;
+    padding-top: 8px;
+}
+.ceo{
+    font-family:'Poppins', sans-serif;
+    font-weight: 500;
+    padding-left: 49px;
+}
+.quotes{
+    font-family:'Poppins', sans-serif; 
+    font-weight: 600;
+    text-align: center;
+    margin-top: 80px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+#text{
+    background: #f8f9fa;
+    color:#111;
+    border-radius: 7px;
+    margin-top: -73px;
+}
+.author{
+    font-family:'Poppins', sans-serif; 
+    text-align: right;
+    margin-right: 61px;
+    padding-bottom: 8px;
+    font-weight: 400;
+}
+.Slot{
+    margin-bottom: 23px;
+}
+.booknow{
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    background: #565657;
+    color: #fff;
+    font-weight: 500;
+    border-radius: 25px;
+    padding: 11px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.booknow:hover{
+    background: rgb(119, 68, 126);
+    color: #fff;
+    margin-left: 10px;
+    transition: 0.3s
+}
+/*--------------------------------------Brocamp-------------------------------*/
+
+#SPC{
+    background: #f8f9fa;
+    border-radius: 8px;
+    font-family: 'Poppins', sans-serif;
+
+}
+.spc{
+    text-align: center;
+    font-weight: 900;
+}
+.para1{
+    font-size: 40px;
+    font-weight: 900;
+    margin-top: 40px;
+}
+.para2{
+    margin-top: 55px;
+    align-items: center;
+    width: 95%;
+}
+.para3{
+    margin-top: 24px;
+}
+.short-text{
+    font-weight: 300;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 25px;
+}
+#apply{
+    background: rgb(131, 130, 130);
+    text-decoration: none;
+    border-radius: 25px;
+    padding: 16px;
+    padding-left: 25px;
+    padding-right: 25px;
+    color: #fff;
+    font-weight: 500;
+}
+#apply:hover{
+    background: #000000;
+    color:#fff;
+}
+
+/*---------------------------courses------------------------*/
+.courses{
+    text-align: center;
+    font-weight: 900;
+    font-family: 'Poppins', sans-serif;
+    height: 77px;
+}
+.cs1{
+    border-radius: 8px;
+    text-decoration: none;
+    font-size: 31px;
+}
+.n1, .n2, .n3,.n4,.n5{
+    background:#f8f9fa ;
+    color: #111;
+    text-align: center;
+    border-radius: 10px;
+    margin-bottom: 17px;
+    text-decoration: none;
+    height: 53px;
+}
+.n1:hover, .n2:hover, .n3:hover,.n4:hover,.n5:hover{
+    color: #fff;
+    background:#565657 ;
+    transition: 0.2s;
+    margin-left: 10px;
+}   
+.p1,.p2,.p3,.p4,.p5{
+    font-size: 20px;
+}
+.p1:hover{
+    color: #fff;
+    transition-duration: 0.2s;
+}
+#courses{
+    font-family: 'Poppins', sans-serif;
+}
+.row{
+    margin-top: 20px;
+}
+/*------------------------Tutorials-------------------------*/
+.tut{
+    text-align: center;
+    font-weight: 900;
+    font-family: 'Poppins', sans-serif;
+}
+.h1,.h2,.h3{
+    font-weight: 700;
+    
+}
+#ytpara{
+    margin-top: 42px;
+    margin-bottom: 43px;
+}
+.tap{
+    text-decoration:none;
+    background: rgb(119, 68, 126);
+    border-radius: 25px;
+    padding: 16px;
+    padding-left: 62px;
+    padding-right: 62px;
+    color: #fff;
+    font-weight: 500;
+}
+.tap:hover{
+    background:#565657;
+    color: #fff;
+    margin-left: 10px;
+    transition: 0.3s;
+}
+/*----------------------Membership--------------------*/
+#Membership{
+    background:#f8f9fa ;
+    font-family: 'Poppins', sans-serif;
+}
+.member{
+    text-align: center;
+    font-weight: 900;
+}
+.buy{
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+    background: #565657;
+    color: #fff;
+    font-weight: 500;
+    border-radius: 25px;
+    padding: 17px;
+    padding-left: 27px;
+    padding-right: 27px;
+    align-items: center;
+}
+.buy:hover{
+    background: rgb(119, 68, 126);
+    color: #fff;
+    margin-left: 10px;
+    transition: 0.3s
+}
+.advg{
+    font-weight: 400;
+}
+#tag{
+    margin-top: 103px;
+    margin-left: 70px;
+    text-decoration: none;
+    margin-bottom: 20px;
+
+}
+ .social-links{
+    text-align: center;
+    padding-bottom: 25px; 
+}
+.fab{
+    margin-left: 10px;
+    text-decoration:none;
+    color: #f8f9fa;
+    background: rgb(255,255,255,0.2);
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    border-radius: 60px;
+    padding-top: 2px;
+    margin-top: 29px;
+
+}
+.fab:hover{
+    color:rgb(0, 0, 0);
+    background: white;
+}
+.p-4{
+    font-size: 25px;
+    color: #fff;
+    font-family: 'Poppins', sans-serif;
+}
