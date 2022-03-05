@@ -112,18 +112,15 @@
 #img{
     width: 310px;
     height: 310px;
-    margin-left: 32px;
 }
 .person{
     font-family:'Poppins', sans-serif;
     font-weight: 550;
-    padding-left: 82px;
     padding-top: 8px;
 }
 .ceo{
     font-family:'Poppins', sans-serif;
     font-weight: 500;
-    padding-left: 49px;
 }
 .quotes{
     font-family:'Poppins', sans-serif; 
